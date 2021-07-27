@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codergps
 - 👀 I’m interested in Front-End web developer 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m fresher
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 00gps000@gmail.com
 
